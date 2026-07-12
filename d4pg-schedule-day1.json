@@ -19,25 +19,6 @@
       "type": "social",
       "location": "Kagin Ballroom",
       "description": "Launch of TCIA 2026 Futures Labs, National Month of Writing, Bitter Root Book Club, and research focus.",
-      "people": {
-        "speakers": [
-          {
-            "name": "Aasim Shabazz",
-            "title": null,
-            "image": null
-          },
-          {
-            "name": "Marika Pfefferkorn",
-            "title": null,
-            "image": null
-          },
-          {
-            "name": "Hana Dinku",
-            "title": null,
-            "image": null
-          }
-        ]
-      }
     },
     {
       "id": "new-1750442381253",
@@ -61,6 +42,15 @@
           }
         ]
       }
+    },
+    {
+      "id": "new-12",
+      "title": "Panel: Creative Futures — We Keep Us Safe",
+      "startTime": "10:30",
+      "endTime": "11:45",
+      "type": "break",
+      "location": "Kagin Ballroom",
+      "description": "Focus on Operation Metro Surge and local organizing. Panelists: philanthropy; higher education;  youth organizing; reporting; business  "
     },
     {
       "id": "new-1750442546880",
