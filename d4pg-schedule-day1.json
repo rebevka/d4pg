@@ -9,16 +9,16 @@
       "endTime": "09:30",
       "type": "break",
       "location": "Kagin Ballroom",
-      "description": ""
+      "description": "Participant arrival, check-in, and breakfast."
     },
     {
       "id": "new-1752510713632",
-      "title": "Welcome & Opening Remarks",
-      "startTime": "09:15",
-      "endTime": "10:00",
+      "title": "TCIA Opening and Welcome",
+      "startTime": "09:00",
+      "endTime": "9:30",
       "type": "social",
       "location": "Kagin Ballroom",
-      "description": "",
+      "description": "Launch of TCIA 2026 Futures Labs, National Month of Writing, Bitter Root Book Club, and research focus.",
       "people": {
         "speakers": [
           {
@@ -42,11 +42,11 @@
     {
       "id": "new-1750442381253",
       "title": "Warm Data Lab",
-      "startTime": "10:00",
-      "endTime": "12:00",
+      "startTime": "9:30",
+      "endTime": "10:30",
       "type": "workshop",
       "location": "Kagin Ballroom",
-      "description": "Nora Bateson defined the term “Warm Data” in 2012 as “contextual and relational information about complex systems. The Lab strengthens groups’ collective ability to perceive, discuss, and design responses to “wicked” problems through immersive exercises and deep conversations.  ",
+      "description": "Opening session focused on relational learning, systems thinking, and shared context-setting.",
       "people": {
         "speakers": [
           {
