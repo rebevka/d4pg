@@ -5,29 +5,48 @@
     {
       "id": "new-1752510617191",
       "title": "Registration & Breakfast Open",
-      "startTime": "8:30 AM",
-      "endTime": "9:30 AM",
-      "type": "social",
+      "startTime": "08:00",
+      "endTime": "09:00",
+      "type": "break",
       "location": "Kagin Ballroom",
-      "description": "Participant arrival, check-in, and breakfast."
+      "description": ""
     },
     {
       "id": "new-1752510713632",
-      "title": "TCIA Opening and Welcome",
-      "startTime": "9:00 AM",
-      "endTime": "9:30 AM",
+      "title": "Welcome & Opening Remarks",
+      "startTime": "09:15",
+      "endTime": "10:00",
       "type": "social",
       "location": "Kagin Ballroom",
-      "description": "Launch of TCIA 2026 Futures Labs, National Month of Writing, Bitter Root Book Club, and research focus.",
+      "description": "",
+      "people": {
+        "speakers": [
+          {
+            "name": "Aasim Shabazz",
+            "title": null,
+            "image": null
+          },
+          {
+            "name": "Marika Pfefferkorn",
+            "title": null,
+            "image": null
+          },
+          {
+            "name": "Hana Dinku",
+            "title": null,
+            "image": null
+          }
+        ]
+      }
     },
     {
       "id": "new-1750442381253",
       "title": "Warm Data Lab",
-      "startTime": "9:30 AM",
-      "endTime": "10:30 AM",
+      "startTime": "10:00",
+      "endTime": "12:00",
       "type": "workshop",
       "location": "Kagin Ballroom",
-      "description": "Opening session focused on relational learning, systems thinking, and shared context-setting.",
+      "description": "Nora Bateson defined the term “Warm Data” in 2012 as “contextual and relational information about complex systems. The Lab strengthens groups’ collective ability to perceive, discuss, and design responses to “wicked” problems through immersive exercises and deep conversations.  ",
       "people": {
         "speakers": [
           {
@@ -45,26 +64,36 @@
     },
     {
       "id": "new-1750442546880",
-      "title": "Walk, Talk, Chalk",
-      "startTime": "11:45 AM",
-      "endTime": "12:30 PM",
-      "type": "workshop",
+      "title": "Lunch",
+      "startTime": "12:15",
+      "endTime": "13:15",
+      "type": "break",
       "location": "Kagin Ballroom",
-      "description": "Interactive reflection and community-building activity. 1.Immigration Rights, 2.Cultural Organizing, 3.Circular Communities."
+      "description": ""
     },
     {
       "id": "new-1750268140711",
-      "title": "Lunch",
-      "startTime": "12:30 PM",
-      "endTime": "1:00 PM",
-      "type": "break",
-      "location": "Kagin Ballroom",
+      "title": "Understanding Data Rights and Tactics for Data Defense",
+      "startTime": "13:30",
+      "endTime": "15:00",
+      "type": "workshop",
+      "location": "CC 235",
+      "description": "In this workshop, participants will learn about the basics of data rights as a liberatory framework and begin identifying a opportunities for data rights to play a role in their organizing. Through a hands-on workshop activity, we’ll explore specific tactics that can help organizers understand how to fight back when data is being used as a tool to reinforce systems of oppression. Together we’ll explore how data rights can help us reclaim control over our communities’ information and cultural knowledge through data justice organizing.",
+      "people": {
+        "speakers": [
+          {
+            "name": "Katya Abazajian",
+            "title": null,
+            "image": null
+          }
+        ]
+      }
     },
     {
       "id": "new-1750268251091",
       "title": "Collaboratively Creating Flexible Data Science Learning Tools",
-      "startTime": "1:00 PM",
-      "endTime": "3:00 PM",
+      "startTime": "13:30",
+      "endTime": "15:00",
       "type": "workshop",
       "location": "HUM 401",
       "description": "In this workshop, we will share the process of working collaboratively with high school teachers to create learning materials.  This free web applet helps Minnesota students explore local air quality by locating the nearest monitoring station and examining both natural and human-made influences on their air quality. We will then encourage participants to explore the app, determine their own questions, and offer suggestions about improvements.",
