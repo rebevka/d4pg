@@ -4,131 +4,71 @@
   "events": [
     {
       "id": "new-1752510617191",
-      "title": "Registration & Breakfast Open",
-      "startTime": "08:00",
-      "endTime": "09:00",
+      "title": "Registration & Breakfast",
+      "startTime": "08:30",
+      "endTime": "09:30",
       "type": "break",
       "location": "Kagin Ballroom",
-      "description": ""
+      "description": "Participant arrival, check-in, and breakfast."
     },
     {
       "id": "new-1752510713632",
-      "title": "Welcome & Opening Remarks",
-      "startTime": "09:15",
-      "endTime": "10:00",
+      "title": "TCIA Opening and Welcome",
+      "startTime": "09:00",
+      "endTime": "09:30",
       "type": "social",
       "location": "Kagin Ballroom",
-      "description": "",
-      "people": {
-        "speakers": [
-          {
-            "name": "Aasim Shabazz",
-            "title": null,
-            "image": null
-          },
-          {
-            "name": "Marika Pfefferkorn",
-            "title": null,
-            "image": null
-          },
-          {
-            "name": "Hana Dinku",
-            "title": null,
-            "image": null
-          }
-        ]
-      }
+      "description": "Launch of TCIA 2026 Futures Labs, National Month of Writing, Bitter Root Book Club, and research focus."
     },
     {
       "id": "new-1750442381253",
       "title": "Warm Data Lab",
-      "startTime": "10:00",
-      "endTime": "12:00",
+      "startTime": "09:30",
+      "endTime": "10:30",
       "type": "workshop",
       "location": "Kagin Ballroom",
-      "description": "Nora Bateson defined the term “Warm Data” in 2012 as “contextual and relational information about complex systems. The Lab strengthens groups’ collective ability to perceive, discuss, and design responses to “wicked” problems through immersive exercises and deep conversations.  ",
-      "people": {
-        "speakers": [
-          {
-            "name": "Marika Pfefferkorn",
-            "title": null,
-            "image": null
-          },
-          {
-            "name": "Aasim Shabazz",
-            "title": null,
-            "image": null
-          }
-        ]
-      }
+      "description": "Opening session focused on relational learning, systems thinking, and shared context-setting."
     },
     {
       "id": "new-1750442546880",
-      "title": "Lunch",
-      "startTime": "12:15",
-      "endTime": "13:15",
-      "type": "break",
+      "title": "Panel: Creative Futures — We Keep Us Safe",
+      "startTime": "10:30",
+      "endTime": "11:45",
+      "type": "workshop",
       "location": "Kagin Ballroom",
-      "description": ""
+      "description": "Focus on Operation Metro Surge and local organizing. Panelists: philanthropy; higher education;  youth organizing; reporting; business"
     },
     {
       "id": "new-1750268140711",
-      "title": "Understanding Data Rights and Tactics for Data Defense",
-      "startTime": "13:30",
-      "endTime": "15:00",
+      "title": "Walk, Talk, Chalk",
+      "startTime": "11:45",
+      "endTime": "12:30",
       "type": "workshop",
       "location": "CC 235",
-      "description": "In this workshop, participants will learn about the basics of data rights as a liberatory framework and begin identifying a opportunities for data rights to play a role in their organizing. Through a hands-on workshop activity, we’ll explore specific tactics that can help organizers understand how to fight back when data is being used as a tool to reinforce systems of oppression. Together we’ll explore how data rights can help us reclaim control over our communities’ information and cultural knowledge through data justice organizing.",
-      "people": {
-        "speakers": [
-          {
-            "name": "Katya Abazajian",
-            "title": null,
-            "image": null
-          }
-        ]
-      }
+      "description": "Interactive reflection and community-building activity. 1. Immigration Rights, 2. Cultural Organizing, 3. Circular Communities.",
     },
     {
       "id": "new-1750268251091",
-      "title": "Collaboratively Creating Flexible Data Science Learning Tools",
-      "startTime": "13:30",
-      "endTime": "15:00",
-      "type": "workshop",
-      "location": "HUM 401",
-      "description": "In this workshop, we will share the process of working collaboratively with high school teachers to create learning materials.  This free web applet helps Minnesota students explore local air quality by locating the nearest monitoring station and examining both natural and human-made influences on their air quality. We will then encourage participants to explore the app, determine their own questions, and offer suggestions about improvements.",
-      "people": {
-        "speakers": [
-          {
-            "name": "Marta Shore",
-            "title": null,
-            "image": null
-          },
-          {
-            "name": "Anne Hackman",
-            "title": null,
-            "image": null
-          }
-        ]
-      }
+      "title": "Lunch",
+      "startTime": "12:30",
+      "endTime": "13:00",
+      "type": "break",
+      "location": "CC 235",
+      "description": "Lunch Break"
     },
     {
       "id": "new-1750268380158",
-      "title": "Part 1- Beyond Belonging: Cultivating Thriving Spaces in STEAM",
-      "startTime": "13:30",
+      "title": "Workshops
+          Data Centers Impact Everyone
+          AI & Policy
+          AI & Accountability
+          DISCO Tech
+      ",
+      "startTime": "13:00",
       "endTime": "15:00",
       "type": "workshop",
       "location": "HUM 400",
-      "description": "The workshop equips participants with hands-on learning experiences that foster engaging, joyful learning environments grounded in liberatory practices that center belonging, healing-centered education, critical love, positive racial identity, agency, sociopolitical consciousness, and culturally responsive practices.",
-      "people": {
-        "speakers": [
-          {
-            "name": "Dr. Imène Ghernati",
-            "title": null,
-            "image": null
-          }
-        ]
-      }
+      "description": "Panels, Fishbowl, Workshops"
     },
     {
       "id": "new-1750268457279",
